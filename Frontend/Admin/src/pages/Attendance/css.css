@@ -1,0 +1,29 @@
+.sdetails1{
+    width: 25%;
+    height: 100%;
+    float: left;
+    /* border: 1px solid green; */
+}
+.sdetails1 .innerdiv{
+    width: 50%;
+    height: 50%;
+    /* display: flex; */
+    /* outline: 0.5px solid red; */
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    float: left;
+    background-color: darkblue;
+    color: white;
+}
+.sdetails1 .siderdiv{
+    width: 50%;
+    height: 50%;
+    /* display: flex; */
+    /* outline: 0.5px solid red; */
+    align-items: center;
+    justify-content: center;
+    float: left;
+    background-color: darkblue;
+    color: white;
+}
